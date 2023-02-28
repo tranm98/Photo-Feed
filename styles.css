@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+header{
+    background-color: white;
+    text-align: center;
+    margin-top: none;  
+}
+section{
+    background-color:hsl(0deg 0% 92%);
+    padding-top: 60px;
+}
+div.header{
+    padding: 15px;
+}
+div.header h2{
+    margin: 0;
+    font-size: 20px;
+    display: inline-block;
+}
+div.description{
+    padding: 15px;
+}
+.box .header .date{
+    float: right;
+    margin: 0;
+    color: rgb(204, 204, 204);
+}
+.box{
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border-radius: 3px;
+}
+img{
+    width: 100%;
+}
